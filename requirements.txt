@@ -3,7 +3,7 @@ numpy
 openai
 Pillow
 Requests
-st_anotated_text
+anoted-text
 streamlit
 streamlit_lottie
 streamlit_option_menu
