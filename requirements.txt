@@ -1,0 +1,10 @@
+matplotlib
+numpy
+openai
+Pillow
+Requests
+st_anotated_text
+streamlit
+streamlit_lottie
+streamlit_option_menu
+wordcloud
